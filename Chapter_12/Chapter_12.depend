@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1637038949 source:d:\progs&drivers\coding\c\chapter_12\12_6.c
+	<stdio.h>
+	<ctype.h>
+	<stdlib.h>
+
+1637510319 source:d:\coding\c\chapter_12\12_7.c
+	<stdio.h>
+	<stdlib.h>
+
+1637689700 source:d:\coding\c\chapter_12\12_9.c
+	<stdio.h>
+	<stdlib.h>
+
+1641115427 source:d:\coding\c\chapter_12\12_17.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1642846407 source:d:\coding\c\chapter_12\12_20.c
+	<stdio.h>
+	<stdlib.h>
+
+1642849853 source:d:\coding\c\chapter_12\12_21.c
+	<stdio.h>
+	<stdlib.h>
+
+1644855525 source:d:\coding\c\chapter_12\12_22.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1644906393 source:d:\coding\c\chapter_12\12_23.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

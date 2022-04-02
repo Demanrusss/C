@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1647921811 source:d:\coding\c\chapter_14\14_6.c
+	<stdio.h>
+	<signal.h>
+	<stdlib.h>
+	<time.h>
+
+1647925869 source:d:\coding\c\chapter_14\14_9.c
+	<stdio.h>
+

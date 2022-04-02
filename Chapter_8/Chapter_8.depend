@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1634838509 source:d:\coding\c\chapter_8\8_14.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1635002920 source:d:\coding\c\chapter_8\8_20.c
+	<stdio.h>
+	<string.h>
+
+1635064621 source:d:\coding\c\chapter_8\8_21.c
+	<stdio.h>
+	<string.h>
+

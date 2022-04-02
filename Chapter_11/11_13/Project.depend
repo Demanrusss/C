@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1636366770 source:d:\progs&drivers\coding\c\chapter_11\11_13\11_13.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1636390611 source:d:\coding\c\chapter_11\11_13\11_13.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

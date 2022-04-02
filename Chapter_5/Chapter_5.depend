@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1584205420 source:d:\coding\c\chapter_5\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1606489132 source:d:\coding\c\chapter_5\5_3.c
+	<stdio.h>
+	<math.h>
+
+1606578064 source:d:\coding\c\chapter_5\5_20.c
+	<stdio.h>
+
+1606505024 source:d:\coding\c\chapter_5\5_10.c
+	<stdio.h>
+	<math.h>
+
+1606506744 source:d:\coding\c\chapter_5\5_11.c
+	<stdio.h>
+	<math.h>
+
+1606553026 source:d:\coding\c\chapter_5\5_14.c
+	<stdio.h>
+	<stdlib.h>
+
+1606566436 source:d:\coding\c\chapter_5\5_15.c
+	<stdio.h>
+	<math.h>
+
+1606572436 source:d:\coding\c\chapter_5\5_16.c
+	<stdio.h>
+
+1606576016 source:d:\coding\c\chapter_5\5_17.c
+	<stdio.h>
+
+1606576487 source:d:\coding\c\chapter_5\5_18.c
+	<stdio.h>
+
+1606577123 source:d:\coding\c\chapter_5\5_19.c
+	<stdio.h>
+
+1606499596 source:d:\coding\c\chapter_5\5_9.c
+	<stdio.h>
+
+1606590288 source:d:\coding\c\chapter_5\5_21.c
+	<stdio.h>
+
+1606681531 source:d:\coding\c\chapter_5\5_28.c
+	<stdio.h>
+
